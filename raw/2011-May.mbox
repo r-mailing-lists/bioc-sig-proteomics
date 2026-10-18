@@ -1,0 +1,70 @@
+From lg390 at cam.ac.uk  Fri May  6 19:37:23 2011
+From: lg390 at cam.ac.uk (Laurent Gatto)
+Date: Fri, 6 May 2011 18:37:23 +0100
+Subject: [Bioc-sig-proteomics] Welcome to bioc-sig-proteomics
+Message-ID: <BANLkTi=AE0JjyKguKmepXkjuSWBikuJxOg@mail.gmail.com>
+
+Dear subscribers,
+
+This mailing list has been set up following the Bioconductor developer
+meeting in Heidelberg [1,2], where some developers interested in
+analysing proteomics data agreed to combine their efforts to develop
+'tools for the analysis and comprehension of proteomics
+high-throughput data'. Things being as there are, not very much has
+happened since then, but hopefully this list will become a place to
+share and discuss current and future development. You are welcome to
+post your own interest/ideas/work. Do also feel free to also post
+questions about data analysis in parallel to the main Bioc mailing
+list.
+
+Best wishes,
+
+Laurent
+
+[1] http://www-huber.embl.de/biocdeveleurope2010/
+[2] http://bioconductor.org/help/course-materials/2010/HeidelbergNovember2010/
+
+
+--
+Laurent Gatto
+Cambridge Centre For Proteomics
+http://www.bio.cam.ac.uk/proteomics
+
+
+From lg390 at cam.ac.uk  Fri May  6 20:55:40 2011
+From: lg390 at cam.ac.uk (Laurent Gatto)
+Date: Fri, 6 May 2011 19:55:40 +0100
+Subject: [Bioc-sig-proteomics] MSnbase package
+Message-ID: <BANLkTim+NzZJbx74f9TfcM=DAoGJHR2L4Q@mail.gmail.com>
+
+Dear all,
+
+MSnbase is a Bioconductor package that provides base functions and
+classes for MS-based proteomics. Current functionality is raw spectra
+plotting, data manipulation, data processing and quantification of
+labelled mass spectrometry experiments (using iTRAQ or TMT reporter
+tags). Version 1.0.1 is available for R/Bioc stable [1], but multiple
+improvements have already been added (and will be on a regular basis)
+in the devel version [2]. Two vignettes are available: one that
+describes MSnbase's functionality and one that describes underlying
+classes. MSnbase has been developed using the Biobase's classes as
+model to allow best compatibility with existing infrastructure.
+
+If you have questions and/or suggestions, please do not hesitate to
+contact me directly or share your thoughts on the mailing list.
+
+Best wishes,
+
+Laurent
+
+[1] http://bioconductor.org/packages/release/bioc/html/MSnbase.html
+[2] http://bioconductor.org/packages/devel/bioc/html/MSnbase.html
+
+
+
+-- 
+Laurent Gatto
+Cambridge Centre For Proteomics
+http://www.bio.cam.ac.uk/proteomics
+
+

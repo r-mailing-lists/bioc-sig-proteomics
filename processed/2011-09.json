@@ -1,0 +1,36 @@
+{
+  "list": "bioc-sig-proteomics",
+  "description": "",
+  "month": "2011-09",
+  "messages": [
+    {
+      "id": "msg-259db2f6ce82",
+      "message_id": "<CAF42j21M4utW33omXsmS45W6=HHkg0EKPehYm-3dot1g5cZmow@mail.gmail.com>",
+      "from_name": "Dan Tenenbaum",
+      "from_email_hash": "588191179e1473316acba74fd9f9fb7b6024bc1e0dcdc5cb81f8f2c35fa8200c",
+      "date": "2011-09-19T20:08:10Z",
+      "subject": "[Bioc-sig-proteomics] bioc-sig-proteomics list going away",
+      "subject_clean": "[Bioc-sig-proteomics] bioc-sig-proteomics list going away",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Hi all,\n\nDue to low usage, the bioc-sig-proteomics mailing list will be removed.\n\nFor continued support, you may subscribe to another Bioconductor mailing list:\n\nhttp://bioconductor.org/help/mailing-list/\n\nThanks,\nDan",
+      "body_snippet": "Hi all,\n\nDue to low usage, the bioc-sig-proteomics mailing list will be removed.\n\nFor continued support, you may subscribe to another Bioconductor mailing list:\n\nhttp://bioconductor.org/help/mailing-l",
+      "thread_id": "thread-259db2f6ce82",
+      "thread_depth": 0,
+      "month": "2011-09"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-259db2f6ce82",
+      "subject": "[Bioc-sig-proteomics] bioc-sig-proteomics list going away",
+      "message_count": 1,
+      "participants": [
+        "Dan Tenenbaum"
+      ],
+      "started": "2011-09-19T20:08:10Z",
+      "last_reply": "2011-09-19T20:08:10Z",
+      "root_message_id": "msg-259db2f6ce82"
+    }
+  ]
+}

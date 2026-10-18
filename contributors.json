@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Laurent Gatto",
+    "slug": "laurent-gatto",
+    "emailHash": "29ff19476c9f5248ff393219e9f13241a709bc5481a5494006321d551aa80ebd",
+    "messageCount": 2,
+    "firstDate": "2011-05-06T17:37:23Z",
+    "lastDate": "2011-05-06T18:55:40Z",
+    "yearlyActivity": {
+      "2011": 2
+    }
+  },
+  {
+    "name": "Dan Tenenbaum",
+    "slug": "dan-tenenbaum",
+    "emailHash": "588191179e1473316acba74fd9f9fb7b6024bc1e0dcdc5cb81f8f2c35fa8200c",
+    "messageCount": 1,
+    "firstDate": "2011-09-19T20:08:10Z",
+    "lastDate": "2011-09-19T20:08:10Z",
+    "yearlyActivity": {
+      "2011": 1
+    }
+  }
+]

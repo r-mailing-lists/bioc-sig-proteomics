@@ -1,0 +1,63 @@
+{
+  "list": "bioc-sig-proteomics",
+  "description": "",
+  "month": "2011-05",
+  "messages": [
+    {
+      "id": "msg-534cc2b82654",
+      "message_id": "<BANLkTi=AE0JjyKguKmepXkjuSWBikuJxOg@mail.gmail.com>",
+      "from_name": "Laurent Gatto",
+      "from_email_hash": "7c62b970736166c1100da366a34679b3dd2d7d4e29899058dafa5b78b60c2d3a",
+      "date": "2011-05-06T17:37:23Z",
+      "subject": "[Bioc-sig-proteomics] Welcome to bioc-sig-proteomics",
+      "subject_clean": "[Bioc-sig-proteomics] Welcome to bioc-sig-proteomics",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear subscribers,\n\nThis mailing list has been set up following the Bioconductor developer\nmeeting in Heidelberg [1,2], where some developers interested in\nanalysing proteomics data agreed to combine their efforts to develop\n'tools for the analysis and comprehension of proteomics\nhigh-throughput data'. Things being as there are, not very much has\nhappened since then, but hopefully this list will become a place to\nshare and discuss current and future development. You are welcome to\npost your own interest/ideas/work. Do also feel free to also post\nquestions about data analysis in parallel to the main Bioc mailing\nlist.\n\nBest wishes,\n\nLaurent\n\n[1] http://www-huber.embl.de/biocdeveleurope2010/\n[2] http://bioconductor.org/help/course-materials/2010/HeidelbergNovember2010/\n\n\n--\nLaurent Gatto\nCambridge Centre For Proteomics\nhttp://www.bio.cam.ac.uk/proteomics",
+      "body_snippet": "Dear subscribers,\n\nThis mailing list has been set up following the Bioconductor developer\nmeeting in Heidelberg [1,2], where some developers interested in\nanalysing proteomics data agreed to combine t",
+      "thread_id": "thread-534cc2b82654",
+      "thread_depth": 0,
+      "month": "2011-05"
+    },
+    {
+      "id": "msg-29b68d6f2933",
+      "message_id": "<BANLkTim+NzZJbx74f9TfcM=DAoGJHR2L4Q@mail.gmail.com>",
+      "from_name": "Laurent Gatto",
+      "from_email_hash": "7c62b970736166c1100da366a34679b3dd2d7d4e29899058dafa5b78b60c2d3a",
+      "date": "2011-05-06T18:55:40Z",
+      "subject": "[Bioc-sig-proteomics] MSnbase package",
+      "subject_clean": "[Bioc-sig-proteomics] MSnbase package",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Dear all,\n\nMSnbase is a Bioconductor package that provides base functions and\nclasses for MS-based proteomics. Current functionality is raw spectra\nplotting, data manipulation, data processing and quantification of\nlabelled mass spectrometry experiments (using iTRAQ or TMT reporter\ntags). Version 1.0.1 is available for R/Bioc stable [1], but multiple\nimprovements have already been added (and will be on a regular basis)\nin the devel version [2]. Two vignettes are available: one that\ndescribes MSnbase's functionality and one that describes underlying\nclasses. MSnbase has been developed using the Biobase's classes as\nmodel to allow best compatibility with existing infrastructure.\n\nIf you have questions and/or suggestions, please do not hesitate to\ncontact me directly or share your thoughts on the mailing list.\n\nBest wishes,\n\nLaurent\n\n[1] http://bioconductor.org/packages/release/bioc/html/MSnbase.html\n[2] http://bioconductor.org/packages/devel/bioc/html/MSnbase.html\n\n\n\n-- \nLaurent Gatto\nCambridge Centre For Proteomics\nhttp://www.bio.cam.ac.uk/proteomics",
+      "body_snippet": "Dear all,\n\nMSnbase is a Bioconductor package that provides base functions and\nclasses for MS-based proteomics. Current functionality is raw spectra\nplotting, data manipulation, data processing and qua",
+      "thread_id": "thread-29b68d6f2933",
+      "thread_depth": 0,
+      "month": "2011-05"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-534cc2b82654",
+      "subject": "[Bioc-sig-proteomics] Welcome to bioc-sig-proteomics",
+      "message_count": 1,
+      "participants": [
+        "Laurent Gatto"
+      ],
+      "started": "2011-05-06T17:37:23Z",
+      "last_reply": "2011-05-06T17:37:23Z",
+      "root_message_id": "msg-534cc2b82654"
+    },
+    {
+      "id": "thread-29b68d6f2933",
+      "subject": "[Bioc-sig-proteomics] MSnbase package",
+      "message_count": 1,
+      "participants": [
+        "Laurent Gatto"
+      ],
+      "started": "2011-05-06T18:55:40Z",
+      "last_reply": "2011-05-06T18:55:40Z",
+      "root_message_id": "msg-29b68d6f2933"
+    }
+  ]
+}
